@@ -1,0 +1,40 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0" xml:lang="en" unique-identifier="pub-id">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Pepper and Carrot - Episode 17 - A Fresh Start</dc:title>
+    <dc:identifier id="pub-id">https://www.peppercarrot.com/en/article377/episode-17-a-fresh-start</dc:identifier>
+    <dc:creator>David Revoy</dc:creator>
+    <dc:date>2026-02-07</dc:date>
+    <dc:language>en</dc:language>
+    <meta property="rendition:layout">pre-paginated</meta>
+  </metadata>
+  <manifest>
+    <item id="page1" href="page1.jpg" media-type="image/jpeg" fallback="page1-html"/>
+    <item id="page2" href="page2.jpg" media-type="image/jpeg" fallback="page2-html"/>
+    <item id="page3" href="page3.jpg" media-type="image/jpeg" fallback="page3-html"/>
+    <item id="page4" href="page4.jpg" media-type="image/jpeg" fallback="page4-html"/>
+    <item id="page5" href="page5.jpg" media-type="image/jpeg" fallback="page5-html"/>
+    <item id="page6" href="page6.jpg" media-type="image/jpeg" fallback="page6-html"/>
+    <item id="page7" href="page7.jpg" media-type="image/jpeg" fallback="page7-html"/>
+    <item id="page8" href="page8.jpg" media-type="image/jpeg" properties="rendition:page-spread-center" fallback="page8-html"/>
+    <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+    <item id="script" href="script.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page2-html" href="page2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page3-html" href="page3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page4-html" href="page4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page5-html" href="page5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="page1"/>
+    <itemref idref="page2"/>
+    <itemref idref="page3"/>
+    <itemref idref="page4"/>
+    <itemref idref="page5"/>
+    <itemref idref="page6"/>
+    <itemref idref="page7"/>
+    <itemref idref="page8"/>
+  </spine>
+</package>
