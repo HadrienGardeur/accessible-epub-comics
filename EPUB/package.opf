@@ -6,9 +6,10 @@
     <dc:date>2026-02-07</dc:date>
     <dc:language>en</dc:language>
     <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="media:duration" refines="#page1-smil">0:00:35</meta>
   </metadata>
   <manifest>
-    <item id="page1" href="page1.jpg" media-type="image/jpeg" fallback="page1-html"/>
+    <item id="page1" href="page1.jpg" media-type="image/jpeg" media-overlay="page1-smil" fallback="page1-html"/>
     <item id="page2" href="page2.jpg" media-type="image/jpeg" fallback="page2-html"/>
     <item id="page3" href="page3.jpg" media-type="image/jpeg" fallback="page3-html"/>
     <item id="page4" href="page4.jpg" media-type="image/jpeg" fallback="page4-html"/>
@@ -26,6 +27,14 @@
     <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml"/>
     <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml"/>
     <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page1-smil" href="page1.smil" media-type="application/smil+xml"/>
+    <item href="audio/page1-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page1-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page1-panel2-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page1-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page1-panel3-bubble1.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page1-panel3-bubble2.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page1-panel4-description.mp3" media-type="audio/mpeg"/>
   </manifest>
   <spine>
     <itemref idref="page1"/>
