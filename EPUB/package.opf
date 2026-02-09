@@ -99,6 +99,6 @@
     <itemref idref="page5"/>
     <itemref idref="page6"/>
     <itemref idref="page7"/>
-    <itemref idref="page8" properties="page-spread-center"/>
+    <itemref idref="page8" properties="rendition:page-spread-center"/>
   </spine>
 </package>
