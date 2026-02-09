@@ -101,4 +101,10 @@
     <itemref idref="page7"/>
     <itemref idref="page8" properties="rendition:page-spread-center"/>
   </spine>
+  <collection role="alternate">
+    <metadata>
+      <meta property="rendition:layout">reflowable</meta>
+    </metadata>
+    <link href="script.xhtml"/>
+  </collection>
 </package>
