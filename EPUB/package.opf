@@ -1,7 +1,8 @@
-<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0" xml:lang="en" unique-identifier="pub-id">
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:rendition="http://www.idpf.org/vocab/rendition/#" version="3.0" xml:lang="en" unique-identifier="pub-id">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>Pepper and Carrot - Episode 17 - A Fresh Start</dc:title>
     <dc:identifier id="pub-id">https://www.peppercarrot.com/en/article377/episode-17-a-fresh-start</dc:identifier>
+    <meta property="dcterms:modified">2026-02-09T00:00:00Z</meta>
     <dc:creator>David Revoy</dc:creator>
     <dc:date>2026-02-07</dc:date>
     <dc:language>en</dc:language>
@@ -23,7 +24,7 @@
     <item id="page5" href="page5.jpg" media-type="image/jpeg" media-overlay="page5-smil" fallback="page5-html"/>
     <item id="page6" href="page6.jpg" media-type="image/jpeg" media-overlay="page6-smil" fallback="page6-html"/>
     <item id="page7" href="page7.jpg" media-type="image/jpeg" media-overlay="page7-smil" fallback="page7-html"/>
-    <item id="page8" href="page8.jpg" media-type="image/jpeg" properties="rendition:page-spread-center" fallback="page8-html"/>
+    <item id="page8" href="page8.jpg" media-type="image/jpeg" fallback="page8-html"/>
     <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
     <item id="script" href="script.xhtml" media-type="application/xhtml+xml"/>
     <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml"/>
@@ -41,54 +42,54 @@
     <item id="page5-smil" href="page5.smil" media-type="application/smil+xml"/>
     <item id="page6-smil" href="page6.smil" media-type="application/smil+xml"/>
     <item id="page7-smil" href="page7.smil" media-type="application/smil+xml"/>
-    <item href="audio/page1-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page1-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page1-panel2-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page1-panel3-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page1-panel3-bubble1.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page1-panel3-bubble2.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page1-panel4-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel2-bubble1.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel2-bubble2.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel3-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel4-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel4-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel5-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page2-panel5-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page3-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page3-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page3-panel3-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page3-panel4-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel1-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel3-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel3-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel4-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel4-bubble1.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page4-panel4-bubble2.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel2-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel3-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel3-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel4-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page5-panel4-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel3-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel3-bubble1.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel3-bubble2.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel4-description1.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel4-bubble.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page6-panel4-description2.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page7-panel1-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page7-panel1-bubble1.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page7-panel1-bubble2.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page7-panel2-description.mp3" media-type="audio/mpeg"/>
-    <item href="audio/page7-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio1" href="audio/page1-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio2" href="audio/page1-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio3" href="audio/page1-panel2-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio4" href="audio/page1-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio5" href="audio/page1-panel3-bubble1.mp3" media-type="audio/mpeg"/>
+    <item id="audio6" href="audio/page1-panel3-bubble2.mp3" media-type="audio/mpeg"/>
+    <item id="audio7" href="audio/page1-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio8" href="audio/page2-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio9" href="audio/page2-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio10" href="audio/page2-panel2-bubble1.mp3" media-type="audio/mpeg"/>
+    <item id="audio11" href="audio/page2-panel2-bubble2.mp3" media-type="audio/mpeg"/>
+    <item id="audio12"  href="audio/page2-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio13" href="audio/page2-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio14" href="audio/page2-panel4-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio15" href="audio/page2-panel5-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio16" href="audio/page2-panel5-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio17" href="audio/page3-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio18" href="audio/page3-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio19" href="audio/page3-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio20" href="audio/page3-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio21" href="audio/page4-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio22" href="audio/page4-panel1-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio23" href="audio/page4-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio24" href="audio/page4-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio25" href="audio/page4-panel3-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio26" href="audio/page4-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio27" href="audio/page4-panel4-bubble1.mp3" media-type="audio/mpeg"/>
+    <item id="audio28" href="audio/page4-panel4-bubble2.mp3" media-type="audio/mpeg"/>
+    <item id="audio29" href="audio/page5-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio30" href="audio/page5-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio31" href="audio/page5-panel2-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio32" href="audio/page5-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio33" href="audio/page5-panel3-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio34" href="audio/page5-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio35" href="audio/page5-panel4-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio36" href="audio/page6-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio37" href="audio/page6-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio38" href="audio/page6-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio39" href="audio/page6-panel3-bubble1.mp3" media-type="audio/mpeg"/>
+    <item id="audio40" href="audio/page6-panel3-bubble2.mp3" media-type="audio/mpeg"/>
+    <item id="audio41" href="audio/page6-panel4-description1.mp3" media-type="audio/mpeg"/>
+    <item id="audio42" href="audio/page6-panel4-bubble.mp3" media-type="audio/mpeg"/>
+    <item id="audio43" href="audio/page6-panel4-description2.mp3" media-type="audio/mpeg"/>
+    <item id="audio44" href="audio/page7-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio45" href="audio/page7-panel1-bubble1.mp3" media-type="audio/mpeg"/>
+    <item id="audio46" href="audio/page7-panel1-bubble2.mp3" media-type="audio/mpeg"/>
+    <item id="audio47" href="audio/page7-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio48" href="audio/page7-panel3-description.mp3" media-type="audio/mpeg"/>
   </manifest>
   <spine>
     <itemref idref="page1"/>
@@ -98,6 +99,6 @@
     <itemref idref="page5"/>
     <itemref idref="page6"/>
     <itemref idref="page7"/>
-    <itemref idref="page8"/>
+    <itemref idref="page8" properties="page-spread-center"/>
   </spine>
 </package>
