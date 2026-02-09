@@ -15,6 +15,15 @@
     <meta property="media:duration" refines="#page5-smil">0:00:43</meta>
     <meta property="media:duration" refines="#page6-smil">0:00:52</meta>
     <meta property="media:duration" refines="#page7-smil">0:00:35</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessMode">textOnVisual</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">auditory</meta>
+    <meta property="schema:accessModeSufficient">visual</meta>
+    <meta property="schema:accessModeSufficient">auditory</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">synchronizedAudioText</meta>
   </metadata>
   <manifest>
     <item id="page1" href="page1.jpg" media-type="image/jpeg" media-overlay="page1-smil" fallback="page1-html"/>
