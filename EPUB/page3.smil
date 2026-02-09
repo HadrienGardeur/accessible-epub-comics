@@ -7,18 +7,21 @@
         <audio src="audio/page3-panel1-description.mp3"/>
       </par>
     </seq>
+    <seq epub:type="panel">
       <par>
         <img src="page3.jpg#xywh=46,315,904,224"/>
         <text src="script.xhtml#page3-panel2-description"/>
         <audio src="audio/page3-panel2-description.mp3"/>
       </par>
     </seq>
+    <seq epub:type="panel">
       <par>
         <img src="page3.jpg#xywh=46,572,904,226"/>
         <text src="script.xhtml#page3-panel3-description"/>
         <audio src="audio/page3-panel3-description.mp3"/>
       </par>
     </seq>
+    <seq epub:type="panel">
       <par>
         <img src="page3.jpg#xywh=46,830,904,500"/>
         <text src="script.xhtml#page3-panel4-description"/>

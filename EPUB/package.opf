@@ -6,18 +6,23 @@
     <dc:date>2026-02-07</dc:date>
     <dc:language>en</dc:language>
     <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="media:duration">0:04:32</meta>
     <meta property="media:duration" refines="#page1-smil">0:00:35</meta>
     <meta property="media:duration" refines="#page2-smil">0:00:43</meta>
     <meta property="media:duration" refines="#page3-smil">0:00:24</meta>
+    <meta property="media:duration" refines="#page4-smil">0:00:40</meta>
+    <meta property="media:duration" refines="#page5-smil">0:00:43</meta>
+    <meta property="media:duration" refines="#page6-smil">0:00:52</meta>
+    <meta property="media:duration" refines="#page7-smil">0:00:35</meta>
   </metadata>
   <manifest>
     <item id="page1" href="page1.jpg" media-type="image/jpeg" media-overlay="page1-smil" fallback="page1-html"/>
     <item id="page2" href="page2.jpg" media-type="image/jpeg" media-overlay="page2-smil" fallback="page2-html"/>
     <item id="page3" href="page3.jpg" media-type="image/jpeg" media-overlay="page3-smil" fallback="page3-html"/>
-    <item id="page4" href="page4.jpg" media-type="image/jpeg" fallback="page4-html"/>
-    <item id="page5" href="page5.jpg" media-type="image/jpeg" fallback="page5-html"/>
-    <item id="page6" href="page6.jpg" media-type="image/jpeg" fallback="page6-html"/>
-    <item id="page7" href="page7.jpg" media-type="image/jpeg" fallback="page7-html"/>
+    <item id="page4" href="page4.jpg" media-type="image/jpeg" media-overlay="page4-smil" fallback="page4-html"/>
+    <item id="page5" href="page5.jpg" media-type="image/jpeg" media-overlay="page5-smil" fallback="page5-html"/>
+    <item id="page6" href="page6.jpg" media-type="image/jpeg" media-overlay="page6-smil" fallback="page6-html"/>
+    <item id="page7" href="page7.jpg" media-type="image/jpeg" media-overlay="page7-smil" fallback="page7-html"/>
     <item id="page8" href="page8.jpg" media-type="image/jpeg" properties="rendition:page-spread-center" fallback="page8-html"/>
     <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
     <item id="script" href="script.xhtml" media-type="application/xhtml+xml"/>
@@ -32,6 +37,10 @@
     <item id="page1-smil" href="page1.smil" media-type="application/smil+xml"/>
     <item id="page2-smil" href="page2.smil" media-type="application/smil+xml"/>
     <item id="page3-smil" href="page3.smil" media-type="application/smil+xml"/>
+    <item id="page4-smil" href="page4.smil" media-type="application/smil+xml"/>
+    <item id="page5-smil" href="page5.smil" media-type="application/smil+xml"/>
+    <item id="page6-smil" href="page6.smil" media-type="application/smil+xml"/>
+    <item id="page7-smil" href="page7.smil" media-type="application/smil+xml"/>
     <item href="audio/page1-panel1-description.mp3" media-type="audio/mpeg"/>
     <item href="audio/page1-panel2-description.mp3" media-type="audio/mpeg"/>
     <item href="audio/page1-panel2-bubble.mp3" media-type="audio/mpeg"/>
@@ -52,6 +61,34 @@
     <item href="audio/page3-panel2-description.mp3" media-type="audio/mpeg"/>
     <item href="audio/page3-panel3-description.mp3" media-type="audio/mpeg"/>
     <item href="audio/page3-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel1-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel3-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel4-bubble1.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page4-panel4-bubble2.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel2-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel3-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel4-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page5-panel4-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel3-bubble1.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel3-bubble2.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel4-description1.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel4-bubble.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page6-panel4-description2.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page7-panel1-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page7-panel1-bubble1.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page7-panel1-bubble2.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page7-panel2-description.mp3" media-type="audio/mpeg"/>
+    <item href="audio/page7-panel3-description.mp3" media-type="audio/mpeg"/>
   </manifest>
   <spine>
     <itemref idref="page1"/>

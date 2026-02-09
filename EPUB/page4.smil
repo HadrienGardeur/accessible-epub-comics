@@ -1,0 +1,52 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq epub:type="panel">
+      <par>
+        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <text src="script.xhtml#page4-panel1-description"/>
+        <audio src="audio/page4-panel1-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <text src="script.xhtml#page4-panel1-bubble"/>
+        <audio src="audio/page4-panel1-bubble.mp3"/>
+      </par>
+    </seq>
+   <seq epub:type="panel">
+      <par>
+        <img src="page4.jpg#xywh=505,16,444,322"/>
+        <text src="script.xhtml#page4-panel2-description"/>
+        <audio src="audio/page4-panel2-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel">
+      <par>
+        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <text src="script.xhtml#page4-panel3-description"/>
+        <audio src="audio/page4-panel3-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <text src="script.xhtml#page4-panel3-bubble"/>
+        <audio src="audio/page4-panel3-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel">
+      <par>
+        <img src="page4.jpg#xywh=44,790,900,540"/>
+        <text src="script.xhtml#page4-panel4-description"/>
+        <audio src="audio/page4-panel4-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=246,794,512,348"/>
+        <text src="script.xhtml#page4-panel4-bubble1"/>
+        <audio src="audio/page4-panel4-bubble1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=546,874,400,414"/>
+        <text src="script.xhtml#page4-panel4-bubble2"/>
+        <audio src="audio/page4-panel4-bubble2.mp3"/>
+      </par>
+    </seq>
+  </body>
+</smil>
