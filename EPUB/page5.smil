@@ -3,43 +3,43 @@
     <seq epub:type="panel">
       <par>
         <img src="page5.jpg#xywh=42,14,908,290"/>
-        <text src="script.xhtml#page5-panel1-description"/>
+        <text src="page5-script.xhtml#page5-panel1-description"/>
         <audio src="audio/page5-panel1-description.mp3"/>
       </par>
     </seq>
    <seq epub:type="panel">
       <par>
         <img src="page5.jpg#xywh=45,336,455,510"/>
-        <text src="script.xhtml#page5-panel2-description"/>
+        <text src="page5-script.xhtml#page5-panel2-description"/>
         <audio src="audio/page5-panel2-description.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page5.jpg#xywh=45,336,455,510"/>
-        <text src="script.xhtml#page5-panel2-bubble"/>
+        <text src="page5-script.xhtml#page5-panel2-bubble"/>
         <audio src="audio/page5-panel2-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel">
       <par>
         <img src="page5.jpg#xywh=520,336,430,510"/>
-        <text src="script.xhtml#page5-panel3-description"/>
+        <text src="page5-script.xhtml#page5-panel3-description"/>
         <audio src="audio/page5-panel3-description.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page5.jpg#xywh=520,336,430,510"/>
-        <text src="script.xhtml#page5-panel3-bubble"/>
+        <text src="page5-script.xhtml#page5-panel3-bubble"/>
         <audio src="audio/page5-panel3-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel">
       <par>
         <img src="page5.jpg#xywh=164,916,706,414"/>
-        <text src="script.xhtml#page5-panel4-description"/>
+        <text src="page5-script.xhtml#page5-panel4-description"/>
         <audio src="audio/page5-panel4-description.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page5.jpg#xywh=164,916,706,414"/>
-        <text src="script.xhtml#page5-panel4-bubble"/>
+        <text src="page5-script.xhtml#page5-panel4-bubble"/>
         <audio src="audio/page5-panel4-bubble.mp3"/>
       </par>
     </seq>

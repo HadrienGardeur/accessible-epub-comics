@@ -3,31 +3,31 @@
     <seq epub:type="panel">
       <par>
         <img src="page7.jpg#xywh=40,15,914,422"/>
-        <text src="script.xhtml#page7-panel1-description"/>
+        <text src="page7-script.xhtml#page7-panel1-description"/>
         <audio src="audio/page7-panel1-description.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page7.jpg#xywh=40,15,914,422"/>
-        <text src="script.xhtml#page7-panel1-bubble1"/>
+        <text src="page7-script.xhtml#page7-panel1-bubble1"/>
         <audio src="audio/page7-panel1-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page7.jpg#xywh=40,15,914,422"/>
-        <text src="script.xhtml#page7-panel1-bubble2"/>
+        <text src="page7-script.xhtml#page7-panel1-bubble2"/>
         <audio src="audio/page7-panel1-bubble2.mp3"/>
       </par>
     </seq>
    <seq epub:type="panel">
       <par>
         <img src="page7.jpg#xywh=256,450,540,210"/>
-        <text src="script.xhtml#page7-panel2-description"/>
+        <text src="page7-script.xhtml#page7-panel2-description"/>
         <audio src="audio/page7-panel2-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel">
       <par>
         <img src="page7.jpg#xywh=42,692,886,638"/>
-        <text src="script.xhtml#page7-panel3-description"/>
+        <text src="page7-script.xhtml#page7-panel3-description"/>
         <audio src="audio/page7-panel3-description.mp3"/>
       </par>
     </seq>

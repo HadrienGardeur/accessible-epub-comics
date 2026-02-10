@@ -3,48 +3,48 @@
     <seq epub:type="panel">
       <par>
         <img src="page6.jpg#xywh=84,30,840,402"/>
-        <text src="script.xhtml#page6-panel1-description"/>
+        <text src="page6-script.xhtml#page6-panel1-description"/>
         <audio src="audio/page6-panel1-description.mp3"/>
       </par>
     </seq>
    <seq epub:type="panel">
       <par>
         <img src="page6.jpg#xywh=44,490,228,392"/>
-        <text src="script.xhtml#page6-panel2-description"/>
+        <text src="page6-script.xhtml#page6-panel2-description"/>
         <audio src="audio/page6-panel2-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel">
       <par>
         <img src="page6.jpg#xywh=294,490,642,392"/>
-        <text src="script.xhtml#page6-panel3-description"/>
+        <text src="page6-script.xhtml#page6-panel3-description"/>
         <audio src="audio/page6-panel3-description.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page6.jpg#xywh=294,490,642,392"/>
-        <text src="script.xhtml#page6-panel3-bubble1"/>
+        <text src="page6-script.xhtml#page6-panel3-bubble1"/>
         <audio src="audio/page6-panel3-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page6.jpg#xywh=294,490,642,392"/>
-        <text src="script.xhtml#page6-panel3-bubble2"/>
+        <text src="page6-script.xhtml#page6-panel3-bubble2"/>
         <audio src="audio/page6-panel3-bubble2.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel">
       <par>
         <img src="page6.jpg#xywh=44,912,400,416"/>
-        <text src="script.xhtml#page6-panel4-description1"/>
+        <text src="page6-script.xhtml#page6-panel4-description1"/>
         <audio src="audio/page6-panel4-description1.mp3"/>
       </par>
       <par epub:type="balloon">
         <img src="page6.jpg#xywh=44,912,400,416"/>
-        <text src="script.xhtml#page6-panel4-bubble"/>
+        <text src="page6-script.xhtml#page6-panel4-bubble"/>
         <audio src="audio/page6-panel4-bubble.mp3"/>
       </par>
       <par>
         <img src="page6.jpg#xywh=44,912,906,416"/>
-        <text src="script.xhtml#page6-panel4-description2"/>
+        <text src="page6-script.xhtml#page6-panel4-description2"/>
         <audio src="audio/page6-panel4-description2.mp3"/>
       </par>
     </seq>

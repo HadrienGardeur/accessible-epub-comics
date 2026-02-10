@@ -35,7 +35,13 @@
     <item id="page7" href="page7.jpg" media-type="image/jpeg" media-overlay="page7-smil" fallback="page7-html"/>
     <item id="page8" href="page8.jpg" media-type="image/jpeg" fallback="page8-html"/>
     <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
-    <item id="script" href="script.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page1-script" href="page1-script.xhtml" media-overlay="page1-smil" media-type="application/xhtml+xml"/>
+    <item id="page2-script" href="page2-script.xhtml" media-overlay="page2-smil" media-type="application/xhtml+xml"/>
+    <item id="page3-script" href="page3-script.xhtml" media-overlay="page3-smil" media-type="application/xhtml+xml"/>
+    <item id="page4-script" href="page4-script.xhtml" media-overlay="page4-smil" media-type="application/xhtml+xml"/>
+    <item id="page5-script" href="page5-script.xhtml" media-overlay="page5-smil" media-type="application/xhtml+xml"/>
+    <item id="page6-script" href="page6-script.xhtml" media-overlay="page6-smil" media-type="application/xhtml+xml"/>
+    <item id="page7-script" href="page7-script.xhtml" media-overlay="page7-smil" media-type="application/xhtml+xml"/>
     <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml"/>
     <item id="page2-html" href="page2.xhtml" media-type="application/xhtml+xml"/>
     <item id="page3-html" href="page3.xhtml" media-type="application/xhtml+xml"/>
@@ -114,6 +120,12 @@
     <metadata>
       <meta property="rendition:layout">reflowable</meta>
     </metadata>
-    <link href="script.xhtml"/>
+    <link href="page1-script.xhtml"/>
+    <link href="page2-script.xhtml"/>
+    <link href="page3-script.xhtml"/>
+    <link href="page4-script.xhtml"/>
+    <link href="page5-script.xhtml"/>
+    <link href="page6-script.xhtml"/>
+    <link href="page7-script.xhtml"/>
   </collection>
 </package>
