@@ -1,20 +1,20 @@
 <smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
   <body>
-    <seq epub:type="panel">
+    <seq epub:type="panel" epub:textref="page6-script.xhtml#page6-panel1">
       <par>
         <img src="page6.jpg#xywh=84,30,840,402"/>
         <text src="page6-script.xhtml#page6-panel1-description"/>
         <audio src="audio/page6-panel1-description.mp3"/>
       </par>
     </seq>
-   <seq epub:type="panel">
+   <seq epub:type="panel" epub:textref="page6-script.xhtml#page6-panel2">
       <par>
         <img src="page6.jpg#xywh=44,490,228,392"/>
         <text src="page6-script.xhtml#page6-panel2-description"/>
         <audio src="audio/page6-panel2-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel">
+    <seq epub:type="panel" epub:textref="page6-script.xhtml#page6-panel3">
       <par>
         <img src="page6.jpg#xywh=294,490,642,392"/>
         <text src="page6-script.xhtml#page6-panel3-description"/>
@@ -31,7 +31,7 @@
         <audio src="audio/page6-panel3-bubble2.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel">
+    <seq epub:type="panel" epub:textref="page6-script.xhtml#page6-panel4">
       <par>
         <img src="page6.jpg#xywh=44,912,400,416"/>
         <text src="page6-script.xhtml#page6-panel4-description1"/>
