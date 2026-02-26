@@ -1,0 +1,44 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq epub:type="panel" epub:textref="page4-script.xhtml#page4-panel1">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <text src="page4-script.xhtml#page4-panel1-description"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <text src="page4-script.xhtml#page4-panel1-bubble"/>
+      </par>
+    </seq>
+   <seq epub:type="panel" epub:textref="page4-script.xhtml#page4-panel2">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=505,16,444,322"/>
+        <text src="page4-script.xhtml#page4-panel2-description"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="page4-script.xhtml#page4-panel3">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <text src="page4-script.xhtml#page4-panel3-description"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <text src="page4-script.xhtml#page4-panel3-bubble"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="page4-script.xhtml#page4-panel4">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=44,790,900,540"/>
+        <text src="page4-script.xhtml#page4-panel4-description"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=246,794,512,348"/>
+        <text src="page4-script.xhtml#page4-panel4-bubble1"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=546,874,400,414"/>
+        <text src="page4-script.xhtml#page4-panel4-bubble2"/>
+      </par>
+    </seq>
+  </body>
+</smil>
