@@ -1,0 +1,300 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq epub:type="panel" epub:textref="script.xhtml#page1-panel1">
+      <par epub:type="description">
+        <img src="page1.jpg#xywh=76,19,814,635"/>
+        <text src="script.xhtml#page1-panel1-description"/>
+        <audio src="audio/page1-panel1-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page1-panel2">
+      <par epub:type="description">
+        <img src="page1.jpg#xywh=42,694,296,297"/>
+        <text src="script.xhtml#page1-panel2-description"/>
+        <audio src="audio/page1-panel2-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page1.jpg#xywh=42,694,296,297"/>
+        <text src="script.xhtml#page1-panel2-bubble"/>
+        <audio src="audio/page1-panel2-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page1-panel3">
+      <par epub:type="description">
+        <img src="page1.jpg#xywh=356,695,584,296"/>
+        <text src="script.xhtml#page1-panel3-description"/>
+        <audio src="audio/page1-panel3-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page1.jpg#xywh=356,695,584,296"/>
+        <text src="script.xhtml#page1-panel3-bubble1"/>
+        <audio src="audio/page1-panel3-bubble1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page1.jpg#xywh=356,695,584,296"/>
+        <text src="script.xhtml#page1-panel3-bubble2"/>
+        <audio src="audio/page1-panel3-bubble2.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page1-panel4">
+      <par epub:type="description">
+        <img src="page1.jpg#xywh=43,1022,907,308"/>
+        <text src="script.xhtml#page1-panel4-description"/>
+        <audio src="audio/page1-panel4-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page2-panel1">
+      <par epub:type="description">
+        <img src="page2.jpg.#xywh=58,16,878,305"/>
+        <text src="script.xhtml#page2-panel1-description"/>
+        <audio src="audio/page2-panel1-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page2-panel2">
+      <par epub:type="description">
+        <img src="page2.jpg.#xywh=43,355,906,347"/>
+        <text src="script.xhtml#page2-panel2-description"/>
+        <audio src="audio/page2-panel2-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page2.jpg.#xywh=43,355,906,347"/>
+        <text src="script.xhtml#page2-panel2-bubble1"/>
+        <audio src="audio/page2-panel2-bubble1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page2.jpg.#xywh=43,355,906,347"/>
+        <text src="script.xhtml#page2-panel2-bubble2"/>
+        <audio src="audio/page2-panel2-bubble2.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page2-panel3">
+      <par epub:type="description">
+        <img src="page2.jpg#xywh=44,736,294,594"/>
+        <text src="script.xhtml#page2-panel3-description"/>
+        <audio src="audio/page2-panel3-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page2-panel4">
+      <par epub:type="description">
+        <img src="page2.jpg#xywh=356,733,280,594"/>
+        <text src="script.xhtml#page2-panel4-description"/>
+        <audio src="audio/page2-panel4-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page2.jpg#xywh=356,733,280,594"/>
+        <text src="script.xhtml#page2-panel4-bubble"/>
+        <audio src="audio/page2-panel4-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page2-panel5">
+      <par epub:type="description">
+        <img src="page2.jpg#xywh=655,736,294,594"/>
+        <text src="script.xhtml#page2-panel5-description"/>
+        <audio src="audio/page2-panel5-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page2.jpg#xywh=655,736,294,594"/>
+        <text src="script.xhtml#page2-panel5-bubble"/>
+        <audio src="audio/page2-panel5-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page3-panel1">
+      <par epub:type="description">
+        <img src="page3.jpg#xywh=46,16,904,266"/>
+        <text src="script.xhtml#page3-panel1-description"/>
+        <audio src="audio/page3-panel1-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page3-panel2">
+      <par epub:type="description">
+        <img src="page3.jpg#xywh=46,315,904,224"/>
+        <text src="script.xhtml#page3-panel2-description"/>
+        <audio src="audio/page3-panel2-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page3-panel3">
+      <par epub:type="description">
+        <img src="page3.jpg#xywh=46,572,904,226"/>
+        <text src="script.xhtml#page3-panel3-description"/>
+        <audio src="audio/page3-panel3-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page3-panel4">
+      <par epub:type="description">
+        <img src="page3.jpg#xywh=46,830,904,500"/>
+        <text src="script.xhtml#page3-panel4-description"/>
+        <audio src="audio/page3-panel4-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page4-panel1">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <text src="script.xhtml#page4-panel1-description"/>
+        <audio src="audio/page4-panel1-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <text src="script.xhtml#page4-panel1-bubble"/>
+        <audio src="audio/page4-panel1-bubble.mp3"/>
+      </par>
+    </seq>
+   <seq epub:type="panel" epub:textref="script.xhtml#page4-panel2">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=505,16,444,322"/>
+        <text src="script.xhtml#page4-panel2-description"/>
+        <audio src="audio/page4-panel2-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page4-panel3">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <text src="script.xhtml#page4-panel3-description"/>
+        <audio src="audio/page4-panel3-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <text src="script.xhtml#page4-panel3-bubble"/>
+        <audio src="audio/page4-panel3-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page4-panel4">
+      <par epub:type="description">
+        <img src="page4.jpg#xywh=44,790,900,540"/>
+        <text src="script.xhtml#page4-panel4-description"/>
+        <audio src="audio/page4-panel4-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=246,794,512,348"/>
+        <text src="script.xhtml#page4-panel4-bubble1"/>
+        <audio src="audio/page4-panel4-bubble1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page4.jpg#xywh=546,874,400,414"/>
+        <text src="script.xhtml#page4-panel4-bubble2"/>
+        <audio src="audio/page4-panel4-bubble2.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page5-panel1">
+      <par epub:type="description">
+        <img src="page5.jpg#xywh=42,14,908,290"/>
+        <text src="script.xhtml#page5-panel1-description"/>
+        <audio src="audio/page5-panel1-description.mp3"/>
+      </par>
+    </seq>
+   <seq epub:type="panel" epub:textref="script.xhtml#page5-panel2">
+      <par epub:type="description">
+        <img src="page5.jpg#xywh=45,336,455,510"/>
+        <text src="script.xhtml#page5-panel2-description"/>
+        <audio src="audio/page5-panel2-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page5.jpg#xywh=45,336,455,510"/>
+        <text src="script.xhtml#page5-panel2-bubble"/>
+        <audio src="audio/page5-panel2-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page5-panel3">
+      <par epub:type="description">
+        <img src="page5.jpg#xywh=520,336,430,510"/>
+        <text src="script.xhtml#page5-panel3-description"/>
+        <audio src="audio/page5-panel3-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page5.jpg#xywh=520,336,430,510"/>
+        <text src="script.xhtml#page5-panel3-bubble"/>
+        <audio src="audio/page5-panel3-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page5-panel4">
+      <par epub:type="description">
+        <img src="page5.jpg#xywh=164,916,706,414"/>
+        <text src="script.xhtml#page5-panel4-description"/>
+        <audio src="audio/page5-panel4-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page5.jpg#xywh=164,916,706,414"/>
+        <text src="script.xhtml#page5-panel4-bubble"/>
+        <audio src="audio/page5-panel4-bubble.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page6-panel1">
+      <par epub:type="description">
+        <img src="page6.jpg#xywh=84,30,840,402"/>
+        <text src="script.xhtml#page6-panel1-description"/>
+        <audio src="audio/page6-panel1-description.mp3"/>
+      </par>
+    </seq>
+   <seq epub:type="panel" epub:textref="script.xhtml#page6-panel2">
+      <par epub:type="description">
+        <img src="page6.jpg#xywh=44,490,228,392"/>
+        <text src="script.xhtml#page6-panel2-description"/>
+        <audio src="audio/page6-panel2-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page6-panel3">
+      <par epub:type="description">
+        <img src="page6.jpg#xywh=294,490,642,392"/>
+        <text src="script.xhtml#page6-panel3-description"/>
+        <audio src="audio/page6-panel3-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page6.jpg#xywh=294,490,642,392"/>
+        <text src="script.xhtml#page6-panel3-bubble1"/>
+        <audio src="audio/page6-panel3-bubble1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page6.jpg#xywh=294,490,642,392"/>
+        <text src="script.xhtml#page6-panel3-bubble2"/>
+        <audio src="audio/page6-panel3-bubble2.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page6-panel4">
+      <par epub:type="description">
+        <img src="page6.jpg#xywh=44,912,400,416"/>
+        <text src="script.xhtml#page6-panel4-description1"/>
+        <audio src="audio/page6-panel4-description1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page6.jpg#xywh=44,912,400,416"/>
+        <text src="script.xhtml#page6-panel4-bubble"/>
+        <audio src="audio/page6-panel4-bubble.mp3"/>
+      </par>
+      <par epub:type="description">
+        <img src="page6.jpg#xywh=44,912,906,416"/>
+        <text src="script.xhtml#page6-panel4-description2"/>
+        <audio src="audio/page6-panel4-description2.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page7-panel1">
+      <par epub:type="description">
+        <img src="page7.jpg#xywh=40,15,914,422"/>
+        <text src="script.xhtml#page7-panel1-description"/>
+        <audio src="audio/page7-panel1-description.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page7.jpg#xywh=40,15,914,422"/>
+        <text src="script.xhtml#page7-panel1-bubble1"/>
+        <audio src="audio/page7-panel1-bubble1.mp3"/>
+      </par>
+      <par epub:type="balloon">
+        <img src="page7.jpg#xywh=40,15,914,422"/>
+        <text src="script.xhtml#page7-panel1-bubble2"/>
+        <audio src="audio/page7-panel1-bubble2.mp3"/>
+      </par>
+    </seq>
+   <seq epub:type="panel" epub:textref="script.xhtml#page7-panel1">
+      <par epub:type="description">
+        <img src="page7.jpg#xywh=256,450,540,210"/>
+        <text src="script.xhtml#page7-panel2-description"/>
+        <audio src="audio/page7-panel2-description.mp3"/>
+      </par>
+    </seq>
+    <seq epub:type="panel" epub:textref="script.xhtml#page7-panel1">
+      <par epub:type="description">
+        <img src="page7.jpg#xywh=42,692,886,638"/>
+        <text src="script.xhtml#page7-panel3-description"/>
+        <audio src="audio/page7-panel3-description.mp3"/>
+      </par>
+    </seq>
+  </body>
+</smil>
