@@ -29,7 +29,7 @@
     <item id="audio3" href="audio/page2-panel1-description.mp3" media-type="audio/mpeg"/>
   </manifest>
   <spine>
-    <itemref idref="page1-html"/>
-    <itemref idref="page2-html"/>
+    <itemref idref="page1-html" properties="rendition:page-spread-left"/>
+    <itemref idref="page2-html" properties="rendition:page-spread-right"/>
   </spine>
 </package>

@@ -6,11 +6,11 @@
     </par>
     <par epub:type="panel">
       <text src="page2.xhtml#panel2"/>
-      <audio src="audio/page1-panel2-description.mp3"/>
+      <audio src="audio/page2-panel1-description.mp3"/>
     </par>
     <par epub:type="panel">
       <text src="page1.xhtml#panel3"/>
-      <audio src="audio/page2-panel1-description.mp3"/>
+      <audio src="audio/page1-panel2-description.mp3"/>
     </par>
   </body>
 </smil>
