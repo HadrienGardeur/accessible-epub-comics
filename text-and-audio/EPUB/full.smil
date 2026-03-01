@@ -2,174 +2,174 @@
   <body>
     <seq epub:type="panel" epub:textref="script.xhtml#page1-panel1">
       <par epub:type="description">
-        <img src="page1.jpg#xywh=76,19,814,635"/>
+        <img src="page1.jpg#xywh=percent:4.1,4.1,91.8,44.5"/>
         <text src="script.xhtml#page1-panel1-description"/>
         <audio src="audio/page1-panel1-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page1-panel2">
       <par epub:type="description">
-        <img src="page1.jpg#xywh=42,694,296,297"/>
+        <img src="page1.jpg#xywh=percent:4.1,50.3,30.0,21.5"/>
         <text src="script.xhtml#page1-panel2-description"/>
         <audio src="audio/page1-panel2-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page1.jpg#xywh=42,694,296,297"/>
+        <img src="page1.jpg#xywh=percent:4.1,50.3,30.0,21.5"/>
         <text src="script.xhtml#page1-panel2-bubble"/>
         <audio src="audio/page1-panel2-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page1-panel3">
       <par epub:type="description">
-        <img src="page1.jpg#xywh=356,695,584,296"/>
+        <img src="page1.jpg#xywh=percent:35.5,50.3,60.4,21.5"/>
         <text src="script.xhtml#page1-panel3-description"/>
         <audio src="audio/page1-panel3-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page1.jpg#xywh=356,695,584,296"/>
+        <img src="page1.jpg#xywh=percent:35.5,50.3,60.4,21.5"/>
         <text src="script.xhtml#page1-panel3-bubble1"/>
         <audio src="audio/page1-panel3-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page1.jpg#xywh=356,695,584,296"/>
+        <img src="page1.jpg#xywh=percent:35.5,50.3,60.4,21.5"/>
         <text src="script.xhtml#page1-panel3-bubble2"/>
         <audio src="audio/page1-panel3-bubble2.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page1-panel4">
       <par epub:type="description">
-        <img src="page1.jpg#xywh=43,1022,907,308"/>
+        <img src="page1.jpg#xywh=percent:4.1,73.5,91.8,22.4"/>
         <text src="script.xhtml#page1-panel4-description"/>
         <audio src="audio/page1-panel4-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page2-panel1">
       <par epub:type="description">
-        <img src="page2.jpg.#xywh=58,16,878,305"/>
+        <img src="page2.jpg.#xywh=percent:4.1,4.1,91.8,19.4"/>
         <text src="script.xhtml#page2-panel1-description"/>
         <audio src="audio/page2-panel1-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page2-panel2">
       <par epub:type="description">
-        <img src="page2.jpg.#xywh=43,355,906,347"/>
+        <img src="page2.jpg#xywh=percent:4.1,25.2,91.8,26.0"/>
         <text src="script.xhtml#page2-panel2-description"/>
         <audio src="audio/page2-panel2-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page2.jpg.#xywh=43,355,906,347"/>
+        <img src="page2.jpg#xywh=percent:4.1,25.2,91.8,26.0"/>
         <text src="script.xhtml#page2-panel2-bubble1"/>
         <audio src="audio/page2-panel2-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page2.jpg.#xywh=43,355,906,347"/>
+        <img src="page2.jpg#xywh=percent:4.1,25.2,91.8,26.0"/>
         <text src="script.xhtml#page2-panel2-bubble2"/>
         <audio src="audio/page2-panel2-bubble2.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page2-panel3">
       <par epub:type="description">
-        <img src="page2.jpg#xywh=44,736,294,594"/>
+        <img src="page2.jpg#xywh=percent:4.1,52.9,30.1,44.2"/>
         <text src="script.xhtml#page2-panel3-description"/>
         <audio src="audio/page2-panel3-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page2-panel4">
       <par epub:type="description">
-        <img src="page2.jpg#xywh=356,733,280,594"/>
+        <img src="page2.jpg#xywh=percent:35.7,52.9,28.7,44.2"/>
         <text src="script.xhtml#page2-panel4-description"/>
         <audio src="audio/page2-panel4-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page2.jpg#xywh=356,733,280,594"/>
+        <img src="page2.jpg#xywh=percent:35.7,52.9,28.7,44.2"/>
         <text src="script.xhtml#page2-panel4-bubble"/>
         <audio src="audio/page2-panel4-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page2-panel5">
       <par epub:type="description">
-        <img src="page2.jpg#xywh=655,736,294,594"/>
+        <img src="page2.jpg#xywh=percent:65.8,52.9,30.1,44.2"/>
         <text src="script.xhtml#page2-panel5-description"/>
         <audio src="audio/page2-panel5-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page2.jpg#xywh=655,736,294,594"/>
+        <img src="page2.jpg#xywh=percent:65.8,52.9,30.1,44.2"/>
         <text src="script.xhtml#page2-panel5-bubble"/>
         <audio src="audio/page2-panel5-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page3-panel1">
       <par epub:type="description">
-        <img src="page3.jpg#xywh=46,16,904,266"/>
+        <img src="page3.jpg#xywh=percent:4.1,4.1,91.8,15.3"/>
         <text src="script.xhtml#page3-panel1-description"/>
         <audio src="audio/page3-panel1-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page3-panel2">
       <par epub:type="description">
-        <img src="page3.jpg#xywh=46,315,904,224"/>
+        <img src="page3.jpg#xywh=percent:4.1,21.1,91.8,17.0"/>
         <text src="script.xhtml#page3-panel2-description"/>
         <audio src="audio/page3-panel2-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page3-panel3">
       <par epub:type="description">
-        <img src="page3.jpg#xywh=46,572,904,226"/>
+        <img src="page3.jpg#xywh=percent:4.1,39.8,91.8,17.0"/>
         <text src="script.xhtml#page3-panel3-description"/>
         <audio src="audio/page3-panel3-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page3-panel4">
       <par epub:type="description">
-        <img src="page3.jpg#xywh=46,830,904,500"/>
+        <img src="page3.jpg#xywh=percent:4.1,58.5,91.8,38.6"/>
         <text src="script.xhtml#page3-panel4-description"/>
         <audio src="audio/page3-panel4-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page4-panel1">
       <par epub:type="description">
-        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <img src="page4.jpg#xywh=percent:4.1,4.1,45.2,20.9"/>
         <text src="script.xhtml#page4-panel1-description"/>
         <audio src="audio/page4-panel1-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page4.jpg#xywh=42,16,444,322"/>
+        <img src="page4.jpg#xywh=percent:4.1,4.1,45.2,20.9"/>
         <text src="script.xhtml#page4-panel1-bubble"/>
         <audio src="audio/page4-panel1-bubble.mp3"/>
       </par>
     </seq>
    <seq epub:type="panel" epub:textref="script.xhtml#page4-panel2">
       <par epub:type="description">
-        <img src="page4.jpg#xywh=505,16,444,322"/>
+        <img src="page4.jpg#xywh=percent:50.8,4.1,45.1,20.9"/>
         <text src="script.xhtml#page4-panel2-description"/>
         <audio src="audio/page4-panel2-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page4-panel3">
       <par epub:type="description">
-        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <img src="page4.jpg#xywh=percent:4.1,26.5,91.8,28.5"/>
         <text src="script.xhtml#page4-panel3-description"/>
         <audio src="audio/page4-panel3-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page4.jpg#xywh=44,370,890,388"/>
+        <img src="page4.jpg#xywh=percent:4.1,26.5,91.8,28.5"/>
         <text src="script.xhtml#page4-panel3-bubble"/>
         <audio src="audio/page4-panel3-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page4-panel4">
       <par epub:type="description">
-        <img src="page4.jpg#xywh=44,790,900,540"/>
+        <img src="page4.jpg#xywh=percent:4.1,56.5,91.8,40.6"/>
         <text src="script.xhtml#page4-panel4-description"/>
         <audio src="audio/page4-panel4-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page4.jpg#xywh=246,794,512,348"/>
+        <img src="page4.jpg#xywh=percent:4.1,56.5,91.8,40.6"/>
         <text src="script.xhtml#page4-panel4-bubble1"/>
         <audio src="audio/page4-panel4-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page4.jpg#xywh=546,874,400,414"/>
+        <img src="page4.jpg#xywh=percent:4.1,56.5,91.8,40.6"/>
         <text src="script.xhtml#page4-panel4-bubble2"/>
         <audio src="audio/page4-panel4-bubble2.mp3"/>
       </par>
@@ -183,115 +183,115 @@
     </seq>
    <seq epub:type="panel" epub:textref="script.xhtml#page5-panel2">
       <par epub:type="description">
-        <img src="page5.jpg#xywh=45,336,455,510"/>
+        <img src="page5.jpg#xywh=percent:4.1,4.1,91.8,18.5"/>
         <text src="script.xhtml#page5-panel2-description"/>
         <audio src="audio/page5-panel2-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page5.jpg#xywh=45,336,455,510"/>
+        <img src="page5.jpg#xywh=percent:4.1,4.1,91.8,18.5"/>
         <text src="script.xhtml#page5-panel2-bubble"/>
         <audio src="audio/page5-panel2-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page5-panel3">
       <par epub:type="description">
-        <img src="page5.jpg#xywh=520,336,430,510"/>
+        <img src="page5.jpg#xywh=percent:51.8,24.4,44.1,38.0"/>
         <text src="script.xhtml#page5-panel3-description"/>
         <audio src="audio/page5-panel3-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page5.jpg#xywh=520,336,430,510"/>
+        <img src="page5.jpg#xywh=percent:51.8,24.4,44.1,38.0"/>
         <text src="script.xhtml#page5-panel3-bubble"/>
         <audio src="audio/page5-panel3-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page5-panel4">
       <par epub:type="description">
-        <img src="page5.jpg#xywh=164,916,706,414"/>
+        <img src="page5.jpg#xywh=percent:4.1,64.3,91.8,31.6"/>
         <text src="script.xhtml#page5-panel4-description"/>
         <audio src="audio/page5-panel4-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page5.jpg#xywh=164,916,706,414"/>
+        <img src="page5.jpg#xywh=percent:4.1,64.3,91.8,31.6"/>
         <text src="script.xhtml#page5-panel4-bubble"/>
         <audio src="audio/page5-panel4-bubble.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page6-panel1">
       <par epub:type="description">
-        <img src="page6.jpg#xywh=84,30,840,402"/>
+        <img src="page6.jpg#xywh=percent:4.1,4.1,91.8,29.5"/>
         <text src="script.xhtml#page6-panel1-description"/>
         <audio src="audio/page6-panel1-description.mp3"/>
       </par>
     </seq>
    <seq epub:type="panel" epub:textref="script.xhtml#page6-panel2">
       <par epub:type="description">
-        <img src="page6.jpg#xywh=44,490,228,392"/>
+        <img src="page6.jpg#xywh=percent:4.1,35.6,23.0,29.0"/>
         <text src="script.xhtml#page6-panel2-description"/>
         <audio src="audio/page6-panel2-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page6-panel3">
       <par epub:type="description">
-        <img src="page6.jpg#xywh=294,490,642,392"/>
+        <img src="page6.jpg#xywh=percent:29.1,35.6,66.8,29.0"/>
         <text src="script.xhtml#page6-panel3-description"/>
         <audio src="audio/page6-panel3-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page6.jpg#xywh=294,490,642,392"/>
+        <img src="page6.jpg#xywh=percent:29.1,35.6,66.8,29.0"/>
         <text src="script.xhtml#page6-panel3-bubble1"/>
         <audio src="audio/page6-panel3-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page6.jpg#xywh=294,490,642,392"/>
+        <img src="page6.jpg#xywh=percent:29.1,35.6,66.8,29.0"/>
         <text src="script.xhtml#page6-panel3-bubble2"/>
         <audio src="audio/page6-panel3-bubble2.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page6-panel4">
       <par epub:type="description">
-        <img src="page6.jpg#xywh=44,912,400,416"/>
+        <img src="page6.jpg#xywh=percent:4.1,66.6,45.9,29.3"/>
         <text src="script.xhtml#page6-panel4-description1"/>
         <audio src="audio/page6-panel4-description1.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page6.jpg#xywh=44,912,400,416"/>
+        <img src="page6.jpg#xywh=percent:4.1,66.6,45.9,29.3"/>
         <text src="script.xhtml#page6-panel4-bubble"/>
         <audio src="audio/page6-panel4-bubble.mp3"/>
       </par>
       <par epub:type="description">
-        <img src="page6.jpg#xywh=44,912,906,416"/>
+        <img src="page6.jpg#xywh=percent:50.0,66.6,45.9,29.3"/>
         <text src="script.xhtml#page6-panel4-description2"/>
         <audio src="audio/page6-panel4-description2.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page7-panel1">
       <par epub:type="description">
-        <img src="page7.jpg#xywh=40,15,914,422"/>
+        <img src="page7.jpg#xywh=percent:4.1,4.1,91.8,28.0"/>
         <text src="script.xhtml#page7-panel1-description"/>
         <audio src="audio/page7-panel1-description.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page7.jpg#xywh=40,15,914,422"/>
+        <img src="page7.jpg#xywh=percent:4.1,4.1,91.8,28.0"/>
         <text src="script.xhtml#page7-panel1-bubble1"/>
         <audio src="audio/page7-panel1-bubble1.mp3"/>
       </par>
       <par epub:type="balloon">
-        <img src="page7.jpg#xywh=40,15,914,422"/>
+        <img src="page7.jpg#xywh=percent:4.1,4.1,91.8,28.0"/>
         <text src="script.xhtml#page7-panel1-bubble2"/>
         <audio src="audio/page7-panel1-bubble2.mp3"/>
       </par>
     </seq>
    <seq epub:type="panel" epub:textref="script.xhtml#page7-panel1">
       <par epub:type="description">
-        <img src="page7.jpg#xywh=256,450,540,210"/>
+        <img src="page7.jpg#xywh=percent:14.0,33.5,72.0,15.5"/>
         <text src="script.xhtml#page7-panel2-description"/>
         <audio src="audio/page7-panel2-description.mp3"/>
       </par>
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page7-panel1">
       <par epub:type="description">
-        <img src="page7.jpg#xywh=42,692,886,638"/>
+        <img src="page7.jpg#xywh=percent:4.1,50.5,91.8,45.5"/>
         <text src="script.xhtml#page7-panel3-description"/>
         <audio src="audio/page7-panel3-description.mp3"/>
       </par>

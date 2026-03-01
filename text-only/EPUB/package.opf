@@ -1,6 +1,6 @@
 <package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:rendition="http://www.idpf.org/vocab/rendition/#" version="3.0" xml:lang="en" unique-identifier="pub-id">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:title>Pepper and Carrot - Episode 17 - A Fresh Start</dc:title>
+    <dc:title>Pepper and Carrot - Episode 17 - A Fresh Start (Text only)</dc:title>
     <dc:identifier id="pub-id">https://www.peppercarrot.com/en/article377/episode-17-a-fresh-start</dc:identifier>
     <meta property="dcterms:modified">2026-02-09T00:00:00Z</meta>
     <dc:creator>David Revoy</dc:creator>
@@ -8,36 +8,26 @@
     <dc:language>en</dc:language>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="media:duration">0:04:32</meta>
-    <meta property="media:duration" refines="#page1-smil">0:00:35</meta>
-    <meta property="media:duration" refines="#page2-smil">0:00:43</meta>
-    <meta property="media:duration" refines="#page3-smil">0:00:24</meta>
-    <meta property="media:duration" refines="#page4-smil">0:00:40</meta>
-    <meta property="media:duration" refines="#page5-smil">0:00:43</meta>
-    <meta property="media:duration" refines="#page6-smil">0:00:52</meta>
-    <meta property="media:duration" refines="#page7-smil">0:00:35</meta>
+    <meta property="media:duration" refines="#full-smil">0:04:32</meta>
     <meta property="schema:accessMode">visual</meta>
     <meta property="schema:accessMode">textOnVisual</meta>
     <meta property="schema:accessModeSufficient">visual</meta>
     <meta property="schema:accessModeSufficient">textual</meta>
     <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">synchronizedAudioText</meta>
   </metadata>
   <manifest>
-    <item id="page1" href="page1.jpg" media-type="image/jpeg" media-overlay="page1-smil" fallback="page1-html"/>
-    <item id="page2" href="page2.jpg" media-type="image/jpeg" media-overlay="page2-smil" fallback="page2-html"/>
-    <item id="page3" href="page3.jpg" media-type="image/jpeg" media-overlay="page3-smil" fallback="page3-html"/>
-    <item id="page4" href="page4.jpg" media-type="image/jpeg" media-overlay="page4-smil" fallback="page4-html"/>
-    <item id="page5" href="page5.jpg" media-type="image/jpeg" media-overlay="page5-smil" fallback="page5-html"/>
-    <item id="page6" href="page6.jpg" media-type="image/jpeg" media-overlay="page6-smil" fallback="page6-html"/>
-    <item id="page7" href="page7.jpg" media-type="image/jpeg" media-overlay="page7-smil" fallback="page7-html"/>
+    <item id="page1" href="page1.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page1-html"/>
+    <item id="page2" href="page2.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page2-html"/>
+    <item id="page3" href="page3.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page3-html"/>
+    <item id="page4" href="page4.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page4-html"/>
+    <item id="page5" href="page5.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page5-html"/>
+    <item id="page6" href="page6.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page6-html"/>
+    <item id="page7" href="page7.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page7-html"/>
     <item id="page8" href="page8.jpg" media-type="image/jpeg" fallback="page8-html"/>
     <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page1-script" href="page1-script.xhtml" media-overlay="page1-smil" media-type="application/xhtml+xml"/>
-    <item id="page2-script" href="page2-script.xhtml" media-overlay="page2-smil" media-type="application/xhtml+xml"/>
-    <item id="page3-script" href="page3-script.xhtml" media-overlay="page3-smil" media-type="application/xhtml+xml"/>
-    <item id="page4-script" href="page4-script.xhtml" media-overlay="page4-smil" media-type="application/xhtml+xml"/>
-    <item id="page5-script" href="page5-script.xhtml" media-overlay="page5-smil" media-type="application/xhtml+xml"/>
-    <item id="page6-script" href="page6-script.xhtml" media-overlay="page6-smil" media-type="application/xhtml+xml"/>
-    <item id="page7-script" href="page7-script.xhtml" media-overlay="page7-smil" media-type="application/xhtml+xml"/>
+    <item id="full-script" href="script.xhtml" media-overlay="full-smil" media-type="application/xhtml+xml"/>
+    <item id="full-smil" href="full.smil" media-type="application/smil+xml"/>
     <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml"/>
     <item id="page2-html" href="page2.xhtml" media-type="application/xhtml+xml"/>
     <item id="page3-html" href="page3.xhtml" media-type="application/xhtml+xml"/>
@@ -46,13 +36,6 @@
     <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml"/>
     <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml"/>
     <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page1-smil" href="page1.smil" media-type="application/smil+xml"/>
-    <item id="page2-smil" href="page2.smil" media-type="application/smil+xml"/>
-    <item id="page3-smil" href="page3.smil" media-type="application/smil+xml"/>
-    <item id="page4-smil" href="page4.smil" media-type="application/smil+xml"/>
-    <item id="page5-smil" href="page5.smil" media-type="application/smil+xml"/>
-    <item id="page6-smil" href="page6.smil" media-type="application/smil+xml"/>
-    <item id="page7-smil" href="page7.smil" media-type="application/smil+xml"/>
   </manifest>
   <spine>
     <itemref idref="page1"/>
@@ -68,12 +51,6 @@
     <metadata>
       <meta property="rendition:layout">reflowable</meta>
     </metadata>
-    <link href="page1-script.xhtml"/>
-    <link href="page2-script.xhtml"/>
-    <link href="page3-script.xhtml"/>
-    <link href="page4-script.xhtml"/>
-    <link href="page5-script.xhtml"/>
-    <link href="page6-script.xhtml"/>
-    <link href="page7-script.xhtml"/>
+    <link href="script.xhtml"/>
   </collection>
 </package>
