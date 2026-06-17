@@ -38,7 +38,7 @@
     </seq>
     <seq epub:type="panel" epub:textref="script.xhtml#page2-panel1">
       <par epub:type="description">
-        <img src="page2.jpg.#xywh=percent:4.1,4.1,91.8,19.4"/>
+        <img src="page2.jpg#xywh=percent:4.1,4.1,91.8,19.4"/>
         <text src="script.xhtml#page2-panel1-description"/>
       </par>
     </seq>
