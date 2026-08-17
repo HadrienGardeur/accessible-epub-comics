@@ -36,6 +36,7 @@
     <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml"/>
     <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml"/>
     <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="stylesheet" href="stylesheet.css" media-type="text/css"/>
   </manifest>
   <spine>
     <itemref idref="page1"/>
