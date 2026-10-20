@@ -5,11 +5,7 @@ This repo hosts a full example of an accessible comic where each panel and speec
 - provide a textual equivalent in HTML
 - and an audio one using MP3 (generated with synthesized voices)
 
-Two variants are available in this repo:
-- image fragments synchronized with text and audio
-- image fragments synchronized with text only
-
-This is the first example of an EPUB files where `<img>` is used in SMIL (see related [issue](https://github.com/w3c/epub-specs/issues/2883) and [PR](https://github.com/w3c/epub-specs/pull/2919)).
+This is the first example of an EPUB files where `<img>` and `epub:imgref` are used in SMIL (see related [issue](https://github.com/w3c/epub-specs/issues/2883) and [PR](https://github.com/w3c/epub-specs/pull/2919)).
 
 ## Attributions
 
