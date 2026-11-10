@@ -18,25 +18,25 @@
     <meta property="schema:accessibilityFeature">synchronizedAudioText</meta>
   </metadata>
   <manifest>
-    <item id="page1" href="page1.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page1-html"/>
-    <item id="page2" href="page2.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page2-html"/>
-    <item id="page3" href="page3.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page3-html"/>
-    <item id="page4" href="page4.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page4-html"/>
-    <item id="page5" href="page5.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page5-html"/>
-    <item id="page6" href="page6.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page6-html"/>
-    <item id="page7" href="page7.jpg" media-type="image/jpeg" media-overlay="full-smil" fallback="page7-html"/>
+    <item id="page1" href="page1.jpg" media-type="image/jpeg"/>
+    <item id="page2" href="page2.jpg" media-type="image/jpeg"/>
+    <item id="page3" href="page3.jpg" media-type="image/jpeg"/>
+    <item id="page4" href="page4.jpg" media-type="image/jpeg"/>
+    <item id="page5" href="page5.jpg" media-type="image/jpeg"/>
+    <item id="page6" href="page6.jpg" media-type="image/jpeg"/>
+    <item id="page7" href="page7.jpg" media-type="image/jpeg"/>
     <item id="page8" href="page8.jpg" media-type="image/jpeg" fallback="page8-html"/>
     <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
     <item id="full-script" href="script.xhtml" media-overlay="full-smil" media-type="application/xhtml+xml"/>
     <item id="full-smil" href="full.smil" media-type="application/smil+xml"/>
-    <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page2-html" href="page2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page3-html" href="page3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page4-html" href="page4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page5-html" href="page5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page1"/>
+    <item id="page2-html" href="page2.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page2"/>
+    <item id="page3-html" href="page3.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page3"/>
+    <item id="page4-html" href="page4.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page4"/>
+    <item id="page5-html" href="page5.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page5"/>
+    <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page6"/>
+    <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page7"/>
+    <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml" fallback="page8"/>
     <item id="stylesheet" href="stylesheet.css" media-type="text/css"/>
     <item id="audio1" href="audio/page1-panel1-description.mp3" media-type="audio/mpeg"/>
     <item id="audio2" href="audio/page1-panel2-description.mp3" media-type="audio/mpeg"/>
@@ -88,14 +88,14 @@
     <item id="audio48" href="audio/page7-panel3-description.mp3" media-type="audio/mpeg"/>
   </manifest>
   <spine>
-    <itemref idref="page1"/>
-    <itemref idref="page2"/>
-    <itemref idref="page3"/>
-    <itemref idref="page4"/>
-    <itemref idref="page5"/>
-    <itemref idref="page6"/>
-    <itemref idref="page7"/>
-    <itemref idref="page8" properties="rendition:page-spread-center"/>
+    <itemref idref="page1-html"/>
+    <itemref idref="page2-html"/>
+    <itemref idref="page3-html"/>
+    <itemref idref="page4-html"/>
+    <itemref idref="page5-html"/>
+    <itemref idref="page6-html"/>
+    <itemref idref="page7-html"/>
+    <itemref idref="page8-html" properties="rendition:page-spread-center"/>
   </spine>
   <collection role="alternate">
     <metadata>
