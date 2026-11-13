@@ -1,13 +1,11 @@
-.skip {
+.sr-only {
   position: absolute;
-  left: -10000px;
-  top: auto;
   width: 1px;
   height: 1px;
+  padding: 0;
+  margin: -1px;
   overflow: hidden;
-}
-.skip:focus {
-  position: static;
-  width: auto;
-  height: auto;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
