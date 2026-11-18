@@ -1,0 +1,53 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:rendition="http://www.idpf.org/vocab/rendition/#" version="3.0" xml:lang="en" unique-identifier="pub-id">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Accessible Comic - Level 0 - Text only</dc:title>
+    <dc:identifier id="pub-id">https://www.peppercarrot.com/en/article377/episode-17-a-fresh-start</dc:identifier>
+    <meta property="dcterms:modified">2026-02-09T00:00:00Z</meta>
+    <dc:creator>David Revoy</dc:creator>
+    <dc:date>2026-02-07</dc:date>
+    <dc:language>en</dc:language>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessMode">textOnVisual</meta>
+    <meta property="schema:accessModeSufficient">visual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+  </metadata>
+  <manifest>
+    <item id="page1" href="page1.jpg" media-type="image/jpeg"/>
+    <item id="page2" href="page2.jpg" media-type="image/jpeg"/>
+    <item id="page3" href="page3.jpg" media-type="image/jpeg"/>
+    <item id="page4" href="page4.jpg" media-type="image/jpeg"/>
+    <item id="page5" href="page5.jpg" media-type="image/jpeg"/>
+    <item id="page6" href="page6.jpg" media-type="image/jpeg"/>
+    <item id="page7" href="page7.jpg" media-type="image/jpeg"/>
+    <item id="page8" href="page8.jpg" media-type="image/jpeg"/>
+    <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
+    <item id="full-script" href="script.xhtml" media-type="application/xhtml+xml"/>
+    <item id="page1-html" href="page1.xhtml" media-type="application/xhtml+xml" fallback="page1"/>
+    <item id="page2-html" href="page2.xhtml" media-type="application/xhtml+xml" fallback="page2"/>
+    <item id="page3-html" href="page3.xhtml" media-type="application/xhtml+xml" fallback="page3"/>
+    <item id="page4-html" href="page4.xhtml" media-type="application/xhtml+xml" fallback="page4"/>
+    <item id="page5-html" href="page5.xhtml" media-type="application/xhtml+xml" fallback="page5"/>
+    <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml" fallback="page6"/>
+    <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml" fallback="page7"/>
+    <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml" fallback="page8"/>
+    <item id="stylesheet" href="style.css" media-type="text/css"/>
+  </manifest>
+  <spine>
+    <itemref idref="page1-html"/>
+    <itemref idref="page2-html"/>
+    <itemref idref="page3-html"/>
+    <itemref idref="page4-html"/>
+    <itemref idref="page5-html"/>
+    <itemref idref="page6-html"/>
+    <itemref idref="page7-html"/>
+    <itemref idref="page8-html" properties="rendition:page-spread-center"/>
+  </spine>
+  <collection role="alternate">
+    <metadata>
+      <meta property="rendition:layout">reflowable</meta>
+    </metadata>
+    <link href="script.xhtml"/>
+  </collection>
+</package>
