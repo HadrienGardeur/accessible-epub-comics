@@ -25,7 +25,7 @@
     <item id="page5" href="page5.jpg" media-type="image/jpeg"/>
     <item id="page6" href="page6.jpg" media-type="image/jpeg"/>
     <item id="page7" href="page7.jpg" media-type="image/jpeg"/>
-    <item id="page8" href="page8.jpg" media-type="image/jpeg" fallback="page8-html"/>
+    <item id="page8" href="page8.jpg" media-type="image/jpeg"/>
     <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml"/>
     <item id="full-script" href="script.xhtml" media-overlay="full-smil" media-type="application/xhtml+xml"/>
     <item id="full-smil" href="full.smil" media-type="application/smil+xml"/>
@@ -37,7 +37,7 @@
     <item id="page6-html" href="page6.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page6"/>
     <item id="page7-html" href="page7.xhtml" media-type="application/xhtml+xml" media-overlay="full-smil" fallback="page7"/>
     <item id="page8-html" href="page8.xhtml" media-type="application/xhtml+xml" fallback="page8"/>
-    <item id="stylesheet" href="stylesheet.css" media-type="text/css"/>
+    <item id="stylesheet" href="style.css" media-type="text/css"/>
     <item id="audio1" href="audio/page1-panel1-description.mp3" media-type="audio/mpeg"/>
     <item id="audio2" href="audio/page1-panel2-description.mp3" media-type="audio/mpeg"/>
     <item id="audio3" href="audio/page1-panel2-bubble.mp3" media-type="audio/mpeg"/>
