@@ -1,12 +1,12 @@
 <smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
   <body>
-    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:4.1,4.1,91.8,44.5">
+    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:4.1,0.9,91.8,47.6">
       <par epub:type="description">
         <text src="page1.xhtml#page1-panel1-description"/>
         <audio src="audio/page1-panel1-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:4.1,50.3,30.0,21.5">
+    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:4.1,50.5,30.0,21.8">
       <par epub:type="description">
         <text src="page1.xhtml#page1-panel2-description"/>
         <audio src="audio/page1-panel2-description.mp3"/>
@@ -16,7 +16,7 @@
         <audio src="audio/page1-panel2-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:35.5,50.3,60.4,21.5">
+    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:35.5,50.5,60.5,21.8">
       <par epub:type="description">
         <text src="page1.xhtml#page1-panel3-description"/>
         <audio src="audio/page1-panel3-description.mp3"/>
@@ -30,19 +30,19 @@
         <audio src="audio/page1-panel3-bubble2.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:4.1,73.5,91.8,22.4">
+    <seq epub:type="panel" epub:textref="page1.xhtml#xywh=percent:4.1,74.2,91.8,22.9">
       <par epub:type="description">
         <text src="page1.xhtml#page1-panel4-description"/>
         <audio src="audio/page1-panel4-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:4.1,4.1,91.8,19.4">
+    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:4.1,0.9,91.8,22.7">
       <par epub:type="description">
         <text src="page2.xhtml#page2-panel1-description"/>
         <audio src="audio/page2-panel1-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:4.1,25.2,91.8,26.0">
+    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:4.1,25.6,91.8,25.7">
       <par epub:type="description">
         <text src="page2.xhtml#page2-panel2-description"/>
         <audio src="audio/page2-panel2-description.mp3"/>
@@ -56,13 +56,13 @@
         <audio src="audio/page2-panel2-bubble2.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:4.1,52.9,30.1,44.2">
+    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:4.1,53.2,30.1,43.8">
       <par epub:type="description">
         <text src="page2.xhtml#page2-panel3-description"/>
         <audio src="audio/page2-panel3-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:35.7,52.9,28.7,44.2">
+    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:35.7,53.2,28.7,43.8">
       <par epub:type="description">
         <text src="page2.xhtml#page2-panel4-description"/>
         <audio src="audio/page2-panel4-description.mp3"/>
@@ -72,7 +72,7 @@
         <audio src="audio/page2-panel4-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:65.8,52.9,30.1,44.2">
+    <seq epub:type="panel" epub:textref="page2.xhtml#xywh=percent:65.8,53.2,30.1,43.8">
       <par epub:type="description">
         <text src="page2.xhtml#page2-panel5-description"/>
         <audio src="audio/page2-panel5-description.mp3"/>
@@ -82,31 +82,31 @@
         <audio src="audio/page2-panel5-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,4.1,91.8,15.3">
+    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,0.9,91.8,19.8">
       <par epub:type="description">
         <text src="page3.xhtml#page3-panel1-description"/>
         <audio src="audio/page3-panel1-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,21.1,91.8,17.0">
+    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,22.7,91.8,16.8">
       <par epub:type="description">
         <text src="page3.xhtml#page3-panel2-description"/>
         <audio src="audio/page3-panel2-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,39.8,91.8,17.0">
+    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,41.4,91.8,17.0">
       <par epub:type="description">
         <text src="page3.xhtml#page3-panel3-description"/>
         <audio src="audio/page3-panel3-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,58.5,91.8,38.6">
+    <seq epub:type="panel" epub:textref="page3.xhtml#xywh=percent:4.1,60.3,91.8,36.8">
       <par epub:type="description">
         <text src="page3.xhtml#page3-panel4-description"/>
         <audio src="audio/page3-panel4-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:4.1,4.1,45.2,20.9">
+    <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:4.1,0.9,45.3,23.7">
       <par epub:type="description">
         <text src="page4.xhtml#page4-panel1-description"/>
         <audio src="audio/page4-panel1-description.mp3"/>
@@ -116,13 +116,13 @@
         <audio src="audio/page4-panel1-bubble.mp3"/>
       </par>
     </seq>
-   <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:50.8,4.1,45.1,20.9">
+   <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:50.7,0.9,45.3,23.7">
       <par epub:type="description">
         <text src="page4.xhtml#page4-panel2-description"/>
         <audio src="audio/page4-panel2-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:4.1,26.5,91.8,28.5">
+    <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:4.1,26.7,91.8,28.8">
       <par epub:type="description">
         <text src="page4.xhtml#page4-panel3-description"/>
         <audio src="audio/page4-panel3-description.mp3"/>
@@ -132,7 +132,7 @@
         <audio src="audio/page4-panel3-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:4.1,56.5,91.8,40.6">
+    <seq epub:type="panel" epub:textref="page4.xhtml#xywh=percent:4.1,57.3,91.8,39.8">
       <par epub:type="description">
         <text src="page4.xhtml#page4-panel4-description"/>
         <audio src="audio/page4-panel4-description.mp3"/>
@@ -146,13 +146,13 @@
         <audio src="audio/page4-panel4-bubble2.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:4.1,4.1,91.8,21.5">
+    <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:4.1,0.9,91.8,21.3">
       <par epub:type="description">
         <text src="page5.xhtml#page5-panel1-description"/>
         <audio src="audio/page5-panel1-description.mp3"/>
       </par>
     </seq>
-   <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:4.1,24.2,46.6,37.8">
+   <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:4.1,24.3,46.6,37.6">
       <par epub:type="description">
         <text src="page5.xhtml#page5-panel2-description"/>
         <audio src="audio/page5-panel2-description.mp3"/>
@@ -162,7 +162,7 @@
         <audio src="audio/page5-panel2-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:52.1,24.2,43.8,37.8">
+    <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:52.1,24.3,43.9,37.6">
       <par epub:type="description">
         <text src="page5.xhtml#page5-panel3-description"/>
         <audio src="audio/page5-panel3-description.mp3"/>
@@ -172,7 +172,7 @@
         <audio src="audio/page5-panel3-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:4.1,63.9,91.8,32.0">
+    <seq epub:type="panel" epub:textref="page5.xhtml#xywh=percent:4.1,63.8,91.8,33.3">
       <par epub:type="description">
         <text src="page5.xhtml#page5-panel4-description"/>
         <audio src="audio/page5-panel4-description.mp3"/>
@@ -182,19 +182,19 @@
         <audio src="audio/page5-panel4-bubble.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:4.1,4.1,91.8,29.5">
+    <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:4.1,0.9,91.8,32.7">
       <par epub:type="description">
         <text src="page6.xhtml#page6-panel1-description"/>
         <audio src="audio/page6-panel1-description.mp3"/>
       </par>
     </seq>
-   <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:4.1,35.6,23.0,29.0">
+   <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:4.1,35.6,23.3,28.8">
       <par epub:type="description">
         <text src="page6.xhtml#page6-panel2-description"/>
         <audio src="audio/page6-panel2-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:29.1,35.6,66.8,29.0">
+    <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:28.7,35.6,67.2,28.8">
       <par epub:type="description">
         <text src="page6.xhtml#page6-panel3-description"/>
         <audio src="audio/page6-panel3-description.mp3"/>
@@ -208,7 +208,7 @@
         <audio src="audio/page6-panel3-bubble2.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:4.1,66.6,45.9,29.3">
+    <seq epub:type="panel" epub:textref="page6.xhtml#xywh=percent:4.1,66.4,91.8,30.7">
       <par epub:type="description">
         <text src="page6.xhtml#page6-panel4-description1"/>
         <audio src="audio/page6-panel4-description1.mp3"/>
@@ -222,7 +222,7 @@
         <audio src="audio/page6-panel4-description2.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page7.xhtml#xywh=percent:4.1,4.1,91.8,28.0">
+    <seq epub:type="panel" epub:textref="page7.xhtml#xywh=percent:4.1,0.9,91.8,29.9">
       <par epub:type="description">
         <text src="page7.xhtml#page7-panel1-description"/>
         <audio src="audio/page7-panel1-description.mp3"/>
@@ -236,13 +236,13 @@
         <audio src="audio/page7-panel1-bubble2.mp3"/>
       </par>
     </seq>
-   <seq epub:type="panel" epub:textref="page7.xhtml#xywh=percent:14.0,33.5,72.0,15.5">
+   <seq epub:type="panel" epub:textref="page7.xhtml#xywh=percent:12.1,32.5,75.5,15.8">
       <par epub:type="description">
         <text src="page7.xhtml#page7-panel2-description"/>
         <audio src="audio/page7-panel2-description.mp3"/>
       </par>
     </seq>
-    <seq epub:type="panel" epub:textref="page7.xhtml#xywh=percent:4.1,50.5,91.8,45.5">
+    <seq epub:type="panel" epub:textref="page7.xhtml#xywh=percent:4.1,50.3,91.8,46.8">
       <par epub:type="description">
         <text src="page7.xhtml#page7-panel3-description"/>
         <audio src="audio/page7-panel3-description.mp3"/>
