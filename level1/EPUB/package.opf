@@ -1,11 +1,12 @@
-<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:rendition="http://www.idpf.org/vocab/rendition/#" version="3.0" xml:lang="en" unique-identifier="pub-id">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rendition="http://www.idpf.org/vocab/rendition/#" version="3.0" xml:lang="en" unique-identifier="pub-id">
+  <metadata>
     <dc:title>Accessible Comic - Level 1 - Text and Audio</dc:title>
     <dc:identifier id="pub-id">https://www.peppercarrot.com/en/article377/episode-17-a-fresh-start</dc:identifier>
     <meta property="dcterms:modified">2026-02-09T00:00:00Z</meta>
     <dc:creator>David Revoy</dc:creator>
     <dc:date>2026-02-07</dc:date>
     <dc:language>en</dc:language>
+    <dc:type>comic</dc:type>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="media:duration">0:04:32</meta>
     <meta property="media:duration" refines="#full-smil">0:04:32</meta>
@@ -49,7 +50,7 @@
     <item id="audio9" href="audio/page2-panel2-description.mp3" media-type="audio/mpeg"/>
     <item id="audio10" href="audio/page2-panel2-bubble1.mp3" media-type="audio/mpeg"/>
     <item id="audio11" href="audio/page2-panel2-bubble2.mp3" media-type="audio/mpeg"/>
-    <item id="audio12"  href="audio/page2-panel3-description.mp3" media-type="audio/mpeg"/>
+    <item id="audio12" href="audio/page2-panel3-description.mp3" media-type="audio/mpeg"/>
     <item id="audio13" href="audio/page2-panel4-description.mp3" media-type="audio/mpeg"/>
     <item id="audio14" href="audio/page2-panel4-bubble.mp3" media-type="audio/mpeg"/>
     <item id="audio15" href="audio/page2-panel5-description.mp3" media-type="audio/mpeg"/>
@@ -95,7 +96,7 @@
     <itemref idref="page5-html"/>
     <itemref idref="page6-html"/>
     <itemref idref="page7-html"/>
-    <itemref idref="page8-html" properties="rendition:page-spread-center"/>
+    <itemref idref="page8-html"/>
   </spine>
   <collection role="alternate">
     <metadata>
