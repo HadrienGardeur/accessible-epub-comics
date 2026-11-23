@@ -8,8 +8,8 @@
     <dc:language>en</dc:language>
     <dc:type>comic</dc:type>
     <meta property="rendition:layout">pre-paginated</meta>
-    <meta property="media:duration">0:04:32</meta>
-    <meta property="media:duration" refines="#full-smil">0:04:32</meta>
+    <meta property="media:duration">0:04:30.4</meta>
+    <meta property="media:duration" refines="#full-smil">0:04:30.4</meta>
     <meta property="schema:accessMode">visual</meta>
     <meta property="schema:accessMode">textOnVisual</meta>
     <meta property="schema:accessModeSufficient">visual</meta>
