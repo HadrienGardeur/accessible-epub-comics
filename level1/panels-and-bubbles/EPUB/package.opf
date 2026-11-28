@@ -1,8 +1,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rendition="http://www.idpf.org/vocab/rendition/#" version="3.0" xml:lang="en" unique-identifier="pub-id">
   <metadata>
-    <dc:title>Accessible Comic - Level 1 - Text and Audio</dc:title>
+    <dc:title>Accessible Comic - Level 1 - Panels and Bubbles</dc:title>
     <dc:identifier id="pub-id">https://www.peppercarrot.com/en/article377/episode-17-a-fresh-start</dc:identifier>
-    <meta property="dcterms:modified">2026-11-27T00:00:00Z</meta>
+    <meta property="dcterms:modified">2026-11-28T00:00:00Z</meta>
     <dc:creator>David Revoy</dc:creator>
     <dc:date>2026-02-07</dc:date>
     <dc:language>en</dc:language>
